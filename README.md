@@ -1,2 +1,2 @@
 # KIDSzone
-python application using tkinket , playsoung and gTTS
+python application using tkinker , playsoung and gTTS
