@@ -1,2 +1,5 @@
 # KIDSzone
-python application using tkinker , playsound and gTTS
+language : Python
+IDE : jupyter notebook
+modules : tkinter , playsound
+themes : light , dark
