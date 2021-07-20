@@ -1,5 +1,5 @@
 # KIDSzone
-language : Python
+language used : Python
 
 IDE : jupyter notebook
 
